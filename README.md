@@ -1,0 +1,1 @@
+# Equal_index_S-P500_funds
